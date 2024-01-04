@@ -38,8 +38,9 @@ $ brew install boost
 
 1.5 Compatible Devices and iOS version requiements
 
-	iPhone7 Plus, iPhone7, iPhone6s Plus, iPhone6s, iPad Pro
-	iOS 10.2.1 and above
+	iPhone12
+	iOS 16.0
+    Xcode 14.0
 
 ## 2. Acknowledgements
 
